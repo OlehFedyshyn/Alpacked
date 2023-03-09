@@ -1,0 +1,6 @@
+name: test-assingment
+description: Apacked test assingment with AWS
+runtime:
+    name: python
+    options:
+        virtualenv: venv

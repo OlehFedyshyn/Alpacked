@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: oleh-fedyshyn
+  tags:
+    - test-assignment
+  annotations:
+    gitlab.com/project-slug: "alpacked-test-assignment/backstage-demo/oleh-fedyshyn"
+spec:
+  type: service
+  lifecycle: experimental
+  owner: hr-team

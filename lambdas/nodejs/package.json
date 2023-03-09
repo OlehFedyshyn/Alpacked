@@ -1,0 +1,9 @@
+{
+  "name": "image-processing",
+  "version": "0.0.1",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "aws-sdk": "^2.1236.0",
+    "mime-types": "^2.1.35"
+  }
+}
